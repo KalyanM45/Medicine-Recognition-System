@@ -59,9 +59,7 @@ Follow these steps to install and set up the project directly from the GitHub re
      ```
 
 6. **Access the Project**
-   - Open a web browser or the appropriate client to access the project.
-
-<br>
+   - Open a web browser or the appropriate client to access the project.<br>
 
 ### Option 2: Installation from DockerHub
 
@@ -83,11 +81,11 @@ If you prefer to use Docker, you can install and run the project using a Docker 
      This command launches the project within a Docker container.
 
 3. **Access the Project**
-   - Open a web browser or the appropriate client to access the project.
+   - Open a web browser or the appropriate client to access the project.<br>
 
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 • **Report bugs**: If you encounter any bugs, please let us know. Open up an issue and let us know the problem.
 
@@ -101,7 +99,7 @@ Contributions are what make the open source community such an amazing place to l
 
 • **Suggestions**: If you don't want to code but have some awesome ideas, open up an issue explaining some updates or improvements you would like to see!
 
-### Don't forget to give the project a star! Thanks again!
+#### Don't forget to give the project a star! Thanks again!
 
 ## License
 
