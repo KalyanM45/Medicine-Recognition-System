@@ -62,6 +62,7 @@ Follow these steps to install and set up the project directly from the GitHub re
    - Open a web browser or the appropriate client to access the project.
 
 <br>
+
 ### Option 2: Installation from DockerHub
 
 If you prefer to use Docker, you can install and run the project using a Docker container from DockerHub:
