@@ -5,11 +5,8 @@
 
 ## Built With
 
- -
- -
- -
- -
- -
+ - Google-GenerativeAI
+ - Flask
 
 ## Getting Started
 
