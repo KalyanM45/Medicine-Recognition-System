@@ -79,6 +79,25 @@ If you prefer to use Docker, you can install and run the project using a Docker 
 3. **Access the Project**
    - Open a web browser or the appropriate client to access the project.<br>
 
+   
+## API Key Setup
+
+To use this project, you need an API key from Google Gemini Large Language Model. Follow these steps to obtain and set up your API key:
+
+1. **Get API Key:**
+   - Visit Alkali App [Click Here](https://makersuite.google.com/app/apikey).
+   - Follow the instructions to create an account and obtain your API key.
+
+2. **Set Up API Key:**
+   - Create a file named `.env` in the project root.
+   - Add your API key to the `.env` file:
+     ```dotenv
+     GOOGLE_API_KEY=your_api_key_here
+     ```
+
+   **Note:** Keep your API key confidential. Do not share it publicly or expose it in your code.<br>
+
+
 ## Contributing
 
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -99,12 +118,12 @@ Contributions are what make the open-source community such an amazing place to l
 
 ## License
 
-This project is licensed under the [Open Source Initiative (OSI)](https://opensource.org/) approved GNU General Public License v3.0 License - see the [LICENSE.txt](LICENSE.txt) file for details.
+This project is licensed under the [Open Source Initiative (OSI)](https://opensource.org/) approved GNU General Public License v3.0 License - see the [LICENSE.txt](LICENSE.txt) file for details.<br>
 
 
 ## Contact Details
 
-Hema Kalyan Murapaka - [kalyanmurapaka274@gmail.com](kalyanmurapaka274@gmail.com)
+Hema Kalyan Murapaka - [kalyanmurapaka274@gmail.com](kalyanmurapaka274@gmail.com)<br>
 
 
 ## Acknowledgements
